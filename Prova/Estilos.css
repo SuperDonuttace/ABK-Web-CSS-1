@@ -1,0 +1,24 @@
+p { 
+    color: brown;
+}
+
+p#segonparagraf {
+
+    color: darkgoldenrod;
+}
+
+.tercerparagraf {
+
+    color: fuchsia;
+}
+
+body {
+    
+    /* Esto es un comentario*/
+
+    /* Si tu pones BODY, selecionas TODA la pagina HTML, y si pones colores se aplicaran a todo el body,
+     peeeeero si tiene una preferencia ("CLASS"-CSS) entornces se aplicara la preferencia. Pero si no tiene nada se aplicara lo que tu le pongas a BODY*/
+
+    background-color: lightblue;
+    color: navy;
+}
