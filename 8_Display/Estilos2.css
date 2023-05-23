@@ -1,0 +1,7 @@
+
+strong {
+    text-decoration: underline;
+    background-color: yellow;
+    display: block;
+    width: 30rem;
+}
